@@ -9,7 +9,7 @@ Sha'table combines cutting-edge embeddings, vector databases, and machine learni
 
 ### Let Sha'table turn your static content into dynamic conversations! 🎉
 
-![Image](https://github.com/user-attachments/assets/2f7d5d13-9c16-43d4-b26f-afeaec93006b)
+![Image](https://github.com/user-attachments/assets/cd389931-4e81-4782-be76-e02afb316e72)
 
 ---
 
@@ -34,9 +34,9 @@ This project implements a Flask-based web application for managing and querying 
 - Query the vector database with a search string to retrieve the most relevant documents.
 - Results are processed for enhanced readability using the `make_results_appropriate` function from `prepros.py`.
 
-![Image](https://github.com/user-attachments/assets/500b7180-9870-49af-b0b4-1cecf51acfa2)
+![Image](https://github.com/user-attachments/assets/d2fdc085-08d0-4b9a-b48b-4a6a736bc02f)
 
-![Image](https://github.com/user-attachments/assets/ae9164c3-22d0-47f0-a065-bdbfdbe20303)
+![Image](https://github.com/user-attachments/assets/0f1ced84-3a82-4181-b58e-dcd183062f7b)
 
 
 ## Directory Structure
