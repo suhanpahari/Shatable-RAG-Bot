@@ -1,0 +1,12 @@
+os
+python-dotenv==1.0.1
+chromadb==0.5.15
+transformers==4.28.1
+torch==1.13.1
+flask==2.2.3
+chardet==5.2.0
+requests==2.28.1
+beautifulsoup4==4.12.3
+langchain-core==0.0.155  # Includes PromptTemplate, JsonOutputParser, OutputParserException
+atexit
+shutil
